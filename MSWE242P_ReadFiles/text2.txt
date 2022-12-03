@@ -1,0 +1,13 @@
+Tomato : Potato
+Orange : Potato
+Potato : Apple
+Apple : Orange
+Banana : Apple
+Toyota : Hyundai
+Honda : Hyundai
+Toyota : Mitsubishi
+Mitsubishi : Hyundai
+Mitsubishi : Honda
+Honda : Ford
+Ford : BMW
+BMW : Mitsubishi
